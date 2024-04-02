@@ -1,1 +1,8 @@
-[ ]
+[
+  {
+    "name": "buttends_ts_eliot",
+    "file": "samples/buttends.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
