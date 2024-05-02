@@ -1,1 +1,17 @@
-[ ]
+[
+  {
+    "name": "clap",
+    "pitch": "C4",
+    "pattern": "1111"
+  },
+  {
+    "name": "ahhhhh:)",
+    "pitch": "D4",
+    "pattern": "0100"
+  },
+  {
+    "name": "kick",
+    "pitch": "A3",
+    "pattern": "1001"
+  }
+]
