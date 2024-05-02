@@ -7,13 +7,13 @@
   },
   {
     "name": "pages_turning",
-    "file": "samples/pages.mp3",
+    "file": "samples/Pages.mp3",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "excerpt_from_dante",
-    "file": "samples/italian.mp3",
+    "file": "samples/Italian.mp3",
     "bpm": "120",
     "loop": "1m"
   }
